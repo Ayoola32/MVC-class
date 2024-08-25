@@ -9,7 +9,7 @@ if ($_SERVER['SERVER_NAME'] == "localhost") {
     define("DBUSER", 'root');
     define("DBPASS", '');
 
-    define("ROOT", 'http://localhost/MVC-class/public');
+    define("ROOT", 'http://localhost/MVC-class/test_mvc/public');
 }else {
 
     // ONLINE Databse config
